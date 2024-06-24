@@ -1,0 +1,6 @@
+[submodule "drivewatch-frontend"]
+	path = drivewatch-frontend
+	url = https://github.com/GabrielHenB/drive_watch_frontend
+[submodule "drivewatch-backend"]
+	path = drivewatch-backend
+	url = https://github.com/DayaneCordeiro/drive_watch_backend
