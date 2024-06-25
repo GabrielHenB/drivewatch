@@ -4,3 +4,6 @@
 [submodule "drivewatch-backend"]
 	path = drivewatch-backend
 	url = https://github.com/DayaneCordeiro/drive_watch_backend
+[submodule "drivewatch-embedded"]
+	path = drivewatch-embedded
+	url = https://github.com/CristianSena17/DriveWatch
